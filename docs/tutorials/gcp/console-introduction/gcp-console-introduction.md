@@ -12,6 +12,6 @@ Never be in doubt about your cloud resources. You can easily find your resources
 
 ![gcp-cloud-console-features](./resources/gcp-cloud-console-features.png)
 
-(optional)Click on the video below for a quick overview on GCP Cloud Console.
+(optional) Click on the video below for a quick overview on GCP Cloud Console.
 
 [![Introduction](https://i.ytimg.com/vi/9xSfYj219mM/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDBIJS6Frqtvv-B182lyusgupWBLw)](https://www.youtube.com/watch?v=yF7EDXKTmoQ)
