@@ -6,7 +6,6 @@
   * __Having an overview of Google Cloud Platform console and how to access the resources out there__
   * __Configuring local environment by installing GCP SDK locally so that you can create operations from the machine's terminal__
   * __Deploying an actual Spring Boot monolith application to the App Engine platform (PaaS)__
-  * __Deploying a suite of services build with Spring Cloud to Compute Engine platform (IaaS)__
 
 ## Let's start with the basics:
   * Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search and YouTube.
