@@ -153,7 +153,7 @@ After the application is deployed, you can visit it by opening the URL http://<p
 
 You just learned how to write your first App Engine web application by deploying your monolith.
 
-## Useful Information
+## Useful Information (for the curious of you)
 
 
 ### App Engine Flexible Environment
