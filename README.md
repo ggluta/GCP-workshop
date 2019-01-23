@@ -31,6 +31,6 @@ In particular, for this workshop, we're going to use:
 #### Final step requires for you to use multiple instances of Compute Engine where you need to deploy the services created in Day 2, after the split of the monolith and test them using requests (i.e Postman).
 
   [![button-console-introduction](./docs/resources/buttons/button-console-introduction.png)](./docs/tutorials/gcp/console-introduction/gcp-console-introduction.md)
-  [![button-installing-the-sdk](./docs/resources/buttons/button-installing-the-sdk.png)](./docs/tutorials/gcp/deploying-monolith/installing-sdk.md)
-  [![button-monolith-deployment](./docs/resources/buttons/button-monolith-deployment.png)](./docs/tutorials/gcp/installing-sdk/deployment-steps.md)
+  [![button-installing-the-sdk](./docs/resources/buttons/button-installing-the-sdk.png)](./docs/tutorials/gcp/installing-sdk/installing-sdk.md)
+  [![button-monolith-deployment](./docs/resources/buttons/button-monolith-deployment.png)](./docs/tutorials/gcp/deploying-monolith/deployment-steps.md)
   
