@@ -11,7 +11,7 @@
 ## Let's start with the basics:
   * Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search and YouTube.
 
-![gcp](./docs/resources/gcp-overview.png)
+![gcp](./resources/gcp-overview.png)
 
 
 In particular, for this workshop, we're going to use:
@@ -30,7 +30,7 @@ In particular, for this workshop, we're going to use:
 
 #### Final step requires for you to use multiple instances of Compute Engine where you need to deploy the services created in Day 2, after the split of the monolith and test them using requests (i.e Postman).
 
-  [![button-console-introduction](./docs/resources/buttons/button-console-introduction.png)](./docs/tutorials/gcp/console-introduction/gcp-console-introduction.md)
-  [![button-installing-the-sdk](./docs/resources/buttons/button-installing-the-sdk.png)](./docs/tutorials/gcp/deploying-monolith/deployment-steps.md)
-  [![button-monolith-deployment](./docs/resources/buttons/button-monolith-deployment.png)](./docs/tutorials/gcp/installing-sdk/installing-sdk.md)
+  [![button-console-introduction](./resources/buttons/button-console-introduction.png)](./tutorials/gcp/console-introduction/gcp-console-introduction.md)
+  [![button-installing-the-sdk](./resources/buttons/button-installing-the-sdk.png)](./tutorials/gcp/deploying-monolith/deployment-steps.md)
+  [![button-monolith-deployment](./resources/buttons/button-monolith-deployment.png)](./tutorials/gcp/installing-sdk/installing-sdk.md)
   
