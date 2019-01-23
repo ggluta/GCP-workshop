@@ -149,10 +149,6 @@ First time deployment may take several minutes. This is because App Engine Flexi
 
 After the application is deployed, you can visit it by opening the URL http://<project-id>.appspot.com in your web browser.
 
-If you don't remember your project-id, please refer to the "Setup and Requirements" section or check the deployment logs for something similar to this:
-
-Deployed service [default] to [https://<project-id>.appspot.com]
-
 ## 5. Congratulations!
 
 You just learned how to write your first App Engine web application by deploying your monolith.
