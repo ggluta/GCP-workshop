@@ -133,7 +133,7 @@ https://cloud.google.com/appengine/docs/locations
 
 __Note:__ You can alternatively list all available regions `gcloud app regions list` and pick another one if you want to.
 
-Then, deploy your application into App Engine environment, run `mvn appengine:deploy`
+Then, deploy your application into App Engine environment, run
 
 ```sh
 $ ./mvnw -DskipTests appengine:deploy
