@@ -30,6 +30,5 @@ In particular, for this workshop, we're going to use:
   [![button-console-introduction](./docs/resources/buttons/button-console-introduction.png)](./docs/tutorials/gcp/console-introduction/gcp-console-introduction.md)
 <br/>
   [![button-installing-the-sdk](./docs/resources/buttons/button-installing-the-sdk.png)](./docs/tutorials/gcp/installing-sdk/installing-sdk.md)
-<br/>  
   [![button-monolith-deployment](./docs/resources/buttons/button-monolith-deployment.png)](./docs/tutorials/gcp/deploying-monolith/deployment-steps.md)
   
