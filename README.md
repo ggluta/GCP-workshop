@@ -19,13 +19,11 @@ In particular, for this workshop, we're going to use:
 
 ## At the following links, you are provided with information that covers different topics. 
 
-#### Beginning with the first one, you get to see an overview of GCP and how the console work, how the projects are being organized and where can you access your resources.
+##### Beginning with the first one, you get to see an overview of GCP and how the console work, how the projects are being organized and where can you access your resources.
 
-#### Second one shows you how to set up your environment in order to interact with GCP's services from a command line interface.
+##### Second one shows you how to set up your environment in order to interact with GCP's services from a command line interface.
 
-#### The third step is going to let you use an App Engine where you can deploy the monolith you created in Day 2.
-
-#### Final step requires for you to use multiple instances of Compute Engine where you need to deploy the services created in Day 2, after the split of the monolith and test them using requests (i.e Postman).
+##### The third step is going to let you use an App Engine where you can deploy the monolith you created in Day 2.
 
   [![button-console-introduction](./docs/resources/buttons/button-console-introduction.png)](./docs/tutorials/gcp/console-introduction/gcp-console-introduction.md)
 <br/>
