@@ -106,14 +106,9 @@ Update the pom.xml to include a Google Cloud Platform plugin that simplifies the
 
 ## 3. Add App Engine `app.yaml` file
 
-To deploy the application into App Engine flex environment, you must add create a new src/main/appengine/app.yaml file:
+To deploy the application into App Engine flex environment, you must add create a new src/main/appengine/app.yaml file, so make sure you create an `appengine` directory inside `main` directory, and inside `appengine` create an `app.yaml` file. 
 
-```sh
-$ mkdir -p src/main/appengine
-$ touch src/main/appengine/app.yaml
-```
-
-And then, in this file, copy the following content:
+Then, in this file, copy the following content:
 
 ```yaml
 service: monolith # Id of the service
