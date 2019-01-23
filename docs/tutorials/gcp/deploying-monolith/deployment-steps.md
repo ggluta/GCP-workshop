@@ -26,7 +26,7 @@ Above the list of your projects you will find a __Create Project__ option so mak
 
 ![create](./resources/gcp-create-project.png)
 
-You will end up with a form where you can input the name of your new project. After filling in the name of your new project, under the input form, you will see a generate identifier. Remember the project ID, a unique name across all Google Cloud projects (the name above has already been taken and will not work for you, sorry!). It will be referred to later in this tutorial as `PROJECT_ID`.
+You will end up with a form where you can input the name of your new project. After filling in the name of your new project, under the input form, you will see a generate identifier. Remember the project ID, a unique name across all Google Cloud projects. It will be referred to later in this tutorial as `PROJECT_ID`.
 
 __Note:__ A good observation is that there is a quota on the number of projects you can create (+-20, more info here), but once you reach that quota, you can easily ask to increase this limit.
 
