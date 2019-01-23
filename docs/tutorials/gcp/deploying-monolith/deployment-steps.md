@@ -118,8 +118,6 @@ runtime_config:
   jdk: openjdk8   # use OpenJDK 8
 ```
 
-The `app.yaml` descriptor is used to describe URL dispatch and resource requirements. This example sets manual_scaling to 1 to minimize possible costs.
-
 ## 4. Deploying the Application into App Engine
 
 First, initialize the Project to be able to run App Engine applications. We'll initialize the project to run in the Europe region (more specifically, London):
