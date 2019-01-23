@@ -17,8 +17,6 @@ In particular, for this workshop, we're going to use:
 
 * __Google App Engine__: Google App Engine enables you to build and host applications on the same systems that power Google applications. App Engine offers fast development and deployment; simple administration, with no need to worry about hardware, patches or backups; and effortless scalability.
 
-* __Google Compute Engine__: Google Compute Engine offers scalable and flexible virtual machine computing capabilities in the cloud, with options to utilize certain CPUs, GPUs, or Cloud TPUs. You can use Google Compute Engine to solve large-scale processing and analytic problems on Google's computing, storage, and networking infrastructure.
-
 ## At the following links, you are provided with information that covers different topics. 
 
 #### Beginning with the first one, you get to see an overview of GCP and how the console work, how the projects are being organized and where can you access your resources.
